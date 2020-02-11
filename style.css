@@ -99,6 +99,7 @@ p{
 .list-inline i {
 	font-size: 40px;
 	color: #455d7a;
+	margin: 0px 20px 0px 20px;
 }
 
 .list-inline i:hover {
